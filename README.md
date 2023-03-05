@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gunnampraveen123
-- 👀 I’m interested in ...DATABASES
-- 🌱 I’m currently learning ...SQL
-- 💞️ I’m looking to collaborate on ...DATABASE PROJECTS
+- 👀 I’m interested in ...Data Engineering
+- 🌱 I’m currently learning ...MySQL, Python, Pyspark
+- 💞️ I’m looking to collaborate on ...Data Engineering Projects
 - 📫 How to reach me ...gunnampraveenreddy@gmail.com
 
 <!---
